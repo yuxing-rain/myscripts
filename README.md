@@ -1,2 +1,2 @@
 # my roblox scripts
-private :smiley:
+obfuscated = whitelist only :smiley:
